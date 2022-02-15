@@ -1,9 +1,7 @@
 
 ##### Projesh Bhoumik
-##### TU Chemnitz , Chemnitz,Germany
-##### Email: projesh.bhoumik07@gmail.com 
+##### TU Chemnitz , Chemnitz,Germany 
 ##### Linkedin: https://www.linkedin.com/in/projesh-bhoumik-13b5a5128/
-##### Skype: projesh.bhoumik07@gmail.com
 
 #  Previous research and development 
  

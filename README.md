@@ -14,9 +14,9 @@
     microprocessor.
     
    ▪  I/O driver design and Implementation  
-  
+   
    ▪ Logging wrapper for robotic arm automation and navigation messages
- 
+   
    ▪ Research on the selection and comparison of open-source C/C++ mathematical libraries
   
    ▪ Research in OpenMP parallel and thread computing library, Intel C++ compiler to gain more experience in analyzing how fast embedded devices can digitize signal data

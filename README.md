@@ -4,16 +4,26 @@
 ##### Linkedin: https://www.linkedin.com/in/projesh-bhoumik-13b5a5128/
 
 #  Previous research and development 
+  ▪ Performed my master's thesis with a focus on virtualization in automotive systems(ECUs) following
+    ISO 26262 functional safety requirements.
+    
+  ▪ As an experienced Linux professional, my role also includes managing virtual environments using an
+    embedded hypervisor, for instance, Xen.
+    
+  ▪ Providing effective solutions for resource partitioning in high computing SoC such as ARM v7
+    microprocessor.
+    
+   ▪  I/O driver design and Implementation  
+  
+   ▪ Logging wrapper for robotic arm automation and navigation messages
  
-  ▪ Logging wrapper for robotic arm automation and navigation messages
-  ▪  I/O driver design and Implementation  
-  ▪ Research on the selection and comparison of open-source C/C++ mathematical libraries
+   ▪ Research on the selection and comparison of open-source C/C++ mathematical libraries
   
-  ▪ Research in OpenMP parallel and thread computing library, Intel C++ compiler to gain more experience in analyzing how fast embedded devices can digitize signal data
+   ▪ Research in OpenMP parallel and thread computing library, Intel C++ compiler to gain more experience in analyzing how fast embedded devices can digitize signal data
   
-  ▪ Research in Automatic visual inspection and tests of waveforms chart display using AI methods
+   ▪ Research in Automatic visual inspection and tests of waveforms chart display using AI methods
   
-  ▪ Active safety application using lidar sensor
+   ▪ Active safety application using lidar sensor
   
   ▪ Image classification based on Convolutional Neural Networks
 

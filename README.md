@@ -1,16 +1,60 @@
 
-##### Projesh Bhoumik
-##### TU Chemnitz , Chemnitz,Germany 
-##### Linkedin: https://www.linkedin.com/in/projesh-bhoumik-13b5a5128/
+# Profile 
+- Name: **Projesh Bhoumik**
+- Education: **MSc. Automotive Software Engineering,**
+             *TU Chemnitz,Chemnitz,Germany*
+- Profession: **Software Engineering**
+- Linkedin: **https://www.linkedin.com/in/projesh-bhoumik-13b5a5128/**
+- Stackoverflow: **https://stackexchange.com/users/4344677/projesh-bhoumik?tab=accounts**
 
-#  Previous research and development 
+**Completed a master's degree in Automotive Software Engineering from the Technical University Of Chemnitz.**
+
+I have invested 5 years (2018-2023) in academic knowledge to be professional in this area. 
+
+In the meantime, I have been working as an Automotive, Embedded Software Engineer (for 5 years). So I define myself as, having a total of eight years of software development and testing experience, including the last few years in Electrical/Electronic Architecture. 
+
+I am always looking for an opportunity and a team where we can explore new technologies and smartly integrate them as safe and reliable embedded systems. I strongly believe in teamwork and follow the Agile development process as a professional skill. 
+
+Professional with extensive knowledge and expertise in:
+- Embedded Linux and C/C++, Python
+- Driver development and kernel optimization
+- Embedded application integration in Measurement devices (e.g., Oscilloscope) 
+- Automotive Hypervisors and I/O virtualization ECU systems
+
+Additional areas of expertise include:
+- Deep learning and Digital Image Processing,
+- AI in embedded devices(e.g., Oscilloscopes, ECU System),
+- Safety and ADAS applications using digital image processing 
+- CAN Bus
+
+	
+
+**References will provided upon request**
+
+# Fields I am experiencing with:
+
+- Language: Python and C/C++
+- Signal processing and Image data analysis
+- Embedded system and Linux
+- Embedded System Virtualization 
+
+# Previous working area:
+- Embedded Hypervisor and Linux device driver
+- Cloud and Parallel computing
+- Computer vision and Machine learning 
+- Digital image data analysis 
+- Artificial Intelligence and Deep learning
+
+
+
+#  Previous Research and development 
   ▪ Performed my master's thesis with a focus on virtualization in automotive systems(ECUs) following
     ISO 26262 functional safety requirements.
     
   ▪ As an experienced Linux professional, my role also includes managing virtual environments using an
     embedded hypervisor, for instance, Xen.
     
-  ▪ Providing effective solutions for resource partitioning in high computing SoC such as ARM v7
+  ▪ Providing effective solutions for resource partitioning in high computing SoCs such as ARM v7
     microprocessor.
     
    ▪  I/O driver design and Implementation  
@@ -21,7 +65,7 @@
   
    ▪ Research in OpenMP parallel and thread computing library, Intel C++ compiler to gain more experience in analyzing how fast embedded devices can digitize signal data
   
-   ▪ Research in Automatic visual inspection and tests of waveforms chart display using AI methods
+   ▪ Research in Automatic visual inspection and tests of waveforms chart display using AI methods and Embedded Oscilosocpe 
   
    ▪ Active safety application using lidar sensor
   

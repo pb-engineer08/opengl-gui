@@ -7,7 +7,7 @@
 - Linkedin: **https://www.linkedin.com/in/projesh-bhoumik-13b5a5128/**
 - Stackoverflow: **https://stackexchange.com/users/4344677/projesh-bhoumik?tab=accounts**
 
-**Completed a master's degree in Automotive Software Engineering from the Technical University Of Chemnitz.**
+**Completed a master's degree in Automotive Software Engineering from the Technical University Of Chemnitz, Germany.**
 
 I have invested 5 years (2018-2023) in academic knowledge to be professional in this area. 
 

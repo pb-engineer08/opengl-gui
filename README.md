@@ -1,15 +1,5 @@
 
 # Profile 
-- Name: **Projesh Bhoumik**
-- Education: **MSc. Automotive Software Engineering,**
-             *TU Chemnitz,Chemnitz,Germany*
-- Profession: **Software Engineering**
-- Linkedin: **https://www.linkedin.com/in/projesh-bhoumik-13b5a5128/**
-- Stackoverflow: **https://stackexchange.com/users/4344677/projesh-bhoumik?tab=accounts**
-
-**Completed a master's degree in Automotive Software Engineering from the Technical University Of Chemnitz, Germany.**
-
-I have invested 5 years (2018-2023) in academic knowledge to be professional in this area. 
 
 In the meantime, I have been working as an Automotive, Embedded Software Engineer (for 5 years). So I define myself as, having a total of eight years of software development and testing experience, including the last few years in Electrical/Electronic Architecture. 
 

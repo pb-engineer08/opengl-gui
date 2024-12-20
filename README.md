@@ -79,9 +79,9 @@ Additional areas of expertise include:
 ##  ![](https://user-images.githubusercontent.com/8930208/153515218-fe22adc0-15c6-4c91-9600-054bcbf25890.gif)
 
 
-##  ▪ Python self-driving on a random game
-  ▪ Computer Vision 
-  
+##  ▪ Self-driving on a random game
+  ▪ C/C++, Python 
+  ▪ Computer Vision
   ▪ Image Segmentation
   
   ▪ ADAS using advanced lane detection, lane-keeping, steering angle measurement  
